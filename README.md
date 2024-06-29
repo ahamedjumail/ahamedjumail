@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/kXXKXmGw/SOFTWARE.jpg)]
+<img src="https://i.postimg.cc/kXXKXmGw/SOFTWARE.jpg">
 <h1 align="center">Hi 👋, I'm Ahamed Jumail</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
